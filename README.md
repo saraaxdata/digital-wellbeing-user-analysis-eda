@@ -1,21 +1,40 @@
-# Social Media & Mental Health Analysis
-<img width="897" height="788" alt="Woman with Smartphones" src="https://github.com/user-attachments/assets/dacc0b09-dff6-4908-bf6e-0eb48f9318a3" />
+# User Behavior Analysis for Wellness App
 
-## Background
-Mental-health apps and digital wellness platforms struggle to understand which user behaviors most influence emotional well-being. Users spend hours on social media, often without realizing how their digital habits impact stress, sleep, and happiness.
-## Business Problem
-This project analyzes how screen time, sleep quality, and lifestyle habits impact stress and happiness. The goal is to help mental-health apps design data-driven features that improve user well-being.
-## Business Questions
-1. Which digital & lifestyle habits most strongly drive stress levels?
-2. Which factors have the largest positive or negative effect on happiness?
-3. Do screen-time breaks or reduced social media use improve well-being?
-4. Which user groups are at highest risk of poor mental health?
-5. Which habits should a mental-health app focus on to improve user well-being?
-##
-## Tools & Technologies
-Python and its libraries pandas, matplotlib, seaborn for Data Cleaning, Data Transformation, Data Visualisation and Data Analysis
+![mindfulness-com-68Z1YR-A5b4-unsplash](https://github.com/user-attachments/assets/03f7e656-9847-41b4-8a21-139e3da4c692)
 
-## How to run this dataset
+## ⭐ Business Problem 
+MindEase is a digital wellness app helping users manage stress, sleep better, and build healthier screen-time habits. Before launching a new Digital Balance Coach feature, the team needs data-driven insights on how user behaviors (screen-time, sleep quality, social media usage) relate to mental well-being.  
+
+Despite high engagement, many users still report stress, poor sleep, and digital fatigue.
+The product team does not know:
+* which user segments are most at risk
+* what behaviors drive poor well-being
+* how to personalize recommendations
+Without these insights, the feature roadmap cannot be prioritized.
+
+## ⭐ Business Task
+As the Data Analyst, your task is to analyze user behavior patterns to:
+* identify high-risk user segments
+* uncover behavioral factors linked to poor mental health outcomes
+* provide insights that guide Digital Balance Coach feature decisions
+
+
+## ⭐ Business Questions
+1. Which behaviors (screen-time, sleep quality, addiction score) are most correlated with poor mental well-being?
+2. Which user segments (age, gender, usage levels) show the highest risk of stress or low mood?
+3. At what screen-time threshold do we see significant declines in mental well-being?
+4. What patterns predict poor sleep or high stress?
+5. What product opportunities or interventions does the data suggest?
+
+## ⭐ Tools  
+* Python (Pandas, NumPy)
+* Data Visualization: Matplotlib, Seaborn
+* EDA & Statistical Exploration
+
+## ⭐ Dataset  
+Source: Social Media & Mental Health Balance dataset (Kaggle)
+
+## ⭐ How to run this dataset
 1. Clone the Repository
 ```
 git clone https://github.com/saraa-sunny/social-media-mental-health-eda.git
@@ -35,6 +54,10 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 
-## Future Improvements
+## ⭐ Future Improvements
 * Build an interactive dashboard using Streamlit
-* Add predictive modeling (Stress Prediction Model)
+* Add predictive modeling
+
+
+
+If you find this project helpful, don’t forget to give a ⭐.
