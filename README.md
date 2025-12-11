@@ -1,6 +1,6 @@
-# ✨ Digital Wellness App Analysis for MindEase App
+# ✨ Digital Wellness Behaviour Analysis for MindEase App 
 
-Analysis on Screen-Time, Sleep, and Mental Well-Being to Guide Product Decisions  
+Mental Health & Social Media Balance Dataset | Python, Pandas, EDA | Beginner Project
 
 ![mindfulness-com-68Z1YR-A5b4-unsplash](https://github.com/user-attachments/assets/03f7e656-9847-41b4-8a21-139e3da4c692)
 
