@@ -1,6 +1,6 @@
-# ✨ Digital Wellness Behaviour Analysis for MindEase App 
+# ✨ Digital Wellbeing User Analysis for MindEase App 
 
-Mental Health & Social Media Balance Dataset | Python, Pandas, EDA | Beginner Project
+Mental Health & Social Media Balance Dataset | Python, Pandas, EDA 
 
 ![mindfulness-com-68Z1YR-A5b4-unsplash](https://github.com/user-attachments/assets/03f7e656-9847-41b4-8a21-139e3da4c692)
 
