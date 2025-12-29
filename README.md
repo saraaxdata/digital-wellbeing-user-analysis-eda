@@ -1,11 +1,11 @@
-# ✨ Digital Wellbeing User Analysis for MindEase App 
+# ✨ Digital Wellbeing User Analysis EDA
 
 Mental Health & Social Media Balance Dataset | Python, Pandas, EDA 
 
 <br>
 
 ## 📘 Project Overview
-Performed **user behavior analysis** to *identify mental well-being patterns, high-risk user segments, and behavioral thresholds*, and translated them into **actionable recommendations** for a digital wellness product.  
+Performed **user behavior analysis** EDA to *identify mental well-being patterns, high-risk user segments, and behavioral thresholds*, and translated them into **actionable recommendations** for a digital wellness product.  
 
 ![mindfulness-com-68Z1YR-A5b4-unsplash](https://github.com/user-attachments/assets/03f7e656-9847-41b4-8a21-139e3da4c692)
 
